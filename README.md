@@ -1,5 +1,7 @@
 **Vehicle Detection Project**
 
+If you're just interested in the result video, [click here!](https://youtu.be/GN0yOMfmp7c)
+
 The goals / steps of this project are the following:
 
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier: Linear SVM classifier
